@@ -1,0 +1,16 @@
+Li :    
+
+http://pseudopotentials.quantum-espresso.org/upf_files/Li.pbe-s-kjpaw_psl.1.0.0.UPF
+
+ps :    PAW
+	PBE
+	Scalar relativistic
+
+
+Y :     
+http://pseudopotentials.quantum-espresso.org/upf_files/Y.pbe-spn-kjpaw_psl.1.0.0.UPF
+	
+ps:     PAW
+	PBE
+	Non Linear Core Correction
+	Scalar relativistic
